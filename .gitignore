@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Python dependencies
+*.egg-info/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Docker-related
+*.dockerignore
+
+# Pytest cache
+.pytest_cache/
